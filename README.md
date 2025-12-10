@@ -1,5 +1,5 @@
-# 💫 About Me:
-🚀 Sanjay Saharan<br><br>I’m passionate Computer Science Engineer from Lovely Professional University (LPU).<br>I specialize in Artificial Intelligence, Machine Learning, Deep Learning, NLP, Speech Processing, and Computer Vision.<br><br>I love building real-world AI solutions and solving complex problems through clean and scalable code. I’ve worked on AI-based projects such as speech recognition, chatbots, and deepfake detection using modern frameworks like TensorFlow, PyTorch, Flask, OpenCV, and more.<br><br>My learning style is simple: build → break → improve.<br>I believe in consistency, creativity, and continuous growth.
+# 💫 Sanjay Saharan:
+<br>I’m passionate Computer Science Engineer from Lovely Professional University (LPU).<br>I specialize in Artificial Intelligence, Machine Learning, Deep Learning, NLP, Speech Processing, and Computer Vision.<br><br>I love building real-world AI solutions and solving complex problems through clean and scalable code. I’ve worked on AI-based projects such as speech recognition, chatbots, and deepfake detection using modern frameworks like TensorFlow, PyTorch, Flask, OpenCV, and more.<br><br>My learning style is simple: build → break → improve.<br>I believe in consistency, creativity, and continuous growth.
 
 
 ## 🌐 Socials:

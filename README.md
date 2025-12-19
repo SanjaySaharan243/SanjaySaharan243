@@ -16,19 +16,8 @@
 ---
 
 ## 🖼️ Leetcode Stats: 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/070d2335-f3fb-4753-b6a4-1f0c706a1fd9" width="650" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/185dc327-f634-42e3-91b9-61679c7852f7" width="650" />
-</p>
-
 <p align="center">
   <img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/5ef5e7af-d29f-4b0f-8736-6903120abd08" />
-</p>
-<p align="center">
   <img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/e803eedb-a65d-45c0-9f6a-350c3007058d" />
 </p>
 

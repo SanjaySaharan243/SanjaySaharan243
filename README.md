@@ -18,7 +18,7 @@ I’ve worked on projects like speech recognition systems, AI chatbots, and deep
 
 My learning philosophy is simple: build → break → improve.
 I believe in consistency, problem-solving, and continuous growth, and I’m always eager to contribute to impactful AI-driven projects.
----
+
 
 <div align="center"> 
 

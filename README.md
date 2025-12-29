@@ -3,15 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👋Hi%20there,%20%20I'm%20Sanjay&desc=CS%20Student%20%20|%20Software%20Developer%20|%20%20AI%20ML%20Engineer&fontAlign=50&textBg=false&fontAlignY=41" alt="Mufaz Header"/>
 
 
-<a href="https://www.linkedin.com/in/sanjaysaharan/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/sanjaysaharan240/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="mailto:sanjaysaharan240@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjaysaharan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/sanjaysaharan240/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="mailto:sanjaysaharan240@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 
 <br><br>

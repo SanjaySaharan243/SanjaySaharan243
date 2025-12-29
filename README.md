@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there,%20%20I'm%20Sanjay&desc=CS%20Student%20%20|%20Software%20Developer%20|%20%20AI%20ML%20Engineer&fontAlign=50&textBg=false&fontAlignY=41" alt="Mufaz Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👋Hi%20there,%20%20I'm%20Sanjay&desc=CS%20Student%20%20|%20Software%20Developer%20|%20%20AI%20ML%20Engineer&fontAlign=50&textBg=false&fontAlignY=41" alt="Mufaz Header"/>
 
 ### 🚀 Software Development | 🤖 AI & ML Engineer | 🧠 Problem Solver
 

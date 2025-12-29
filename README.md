@@ -12,8 +12,12 @@
 
 ## 🧑‍💻 **About Me**
 
-I’m passionate Computer Science Engineer from Lovely Professional University (LPU).<br>I specialize in Artificial Intelligence, Machine Learning, Deep Learning, NLP, Speech Processing, and Computer Vision.<br><br>I love building real-world AI solutions and solving complex problems through clean and scalable code. I’ve worked on AI-based projects such as speech recognition, chatbots, and deepfake detection using modern frameworks like TensorFlow, PyTorch, Flask, OpenCV, and more.<br><br>My learning style is simple: build → break → improve.<br>I believe in consistency, creativity, and continuous growth.
+I’m Sanjay, a Computer Science Engineering student at Lovely Professional University (LPU) with a strong interest in Artificial Intelligence and Machine Learning. I enjoy building real-world AI solutions using Machine Learning, Deep Learning, NLP, Speech Processing, and Computer Vision.
 
+I’ve worked on projects like speech recognition systems, AI chatbots, and deepfake detection, using tools such as Python, TensorFlow, PyTorch, OpenCV, Flask, and Streamlit. During my AI internship at Source Hub IT, I gained hands-on experience with end-to-end ML workflows—from data processing to model deployment.
+
+My learning philosophy is simple: build → break → improve.
+I believe in consistency, problem-solving, and continuous growth, and I’m always eager to contribute to impactful AI-driven projects.
 ---
 
 <div align="center"> 

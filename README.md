@@ -5,9 +5,8 @@
 ### 🚀 Software Development | 🤖 AI & ML Engineer | 🧠 Problem Solver
 
 <a href="https://linkedin.com/in/www.linkedin.com/in/sanjaysaharan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/mufaz-vk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/SanjaySaharan243"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sanjaysaharan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjaysaharan240@gmail.com) 
 <br><br>
 </div>
 

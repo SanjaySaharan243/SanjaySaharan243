@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👋Hi%20there,%20%20I'm%20Sanjay&desc=CS%20Student%20%20|%20Software%20Developer%20|%20%20AI%20ML%20Engineer&fontAlign=50&textBg=false&fontAlignY=41" alt="Mufaz Header"/>
 
-### 🚀 Software Development | 🤖 AI & ML Engineer | 🧠 Problem Solver
+###  Software Development | AI & ML Engineer | Problem Solver
 
 <a href="https://linkedin.com/in/www.linkedin.com/in/sanjaysaharan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/SanjaySaharan243"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>

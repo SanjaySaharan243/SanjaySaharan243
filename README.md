@@ -34,7 +34,8 @@ I believe in consistency, problem-solving, and continuous growth, and I’m alwa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySaharan243&theme=dark&hide_border=false&layout=compact" width="48%" />
 </p>
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanjaySaharan243&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SanjaySaharan243&theme=default)
 ---
 
 ## 🖼️ Leetcode Stats: 

@@ -43,7 +43,7 @@ I believe in consistency, problem-solving, and continuous growth, and I’m alwa
 </p>
 
 
-
+<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=SanjaySaharan243" alt="GitHub Streak" /></a>
 
 
 ---
